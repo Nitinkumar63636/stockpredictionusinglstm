@@ -1,0 +1,2 @@
+# stockpredictionusinglstm
+regarding my internship
